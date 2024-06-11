@@ -1,4 +1,4 @@
-### Hi my name is Aaditya Pulastya and I am currently attending Pennsylvania State University. I am majoring in Computer Science and plan on graduating in May of 2024!
+### Hi my name is Aaditya Pulastya and I recently graduated from Penn State. 
 
 
 <!--
