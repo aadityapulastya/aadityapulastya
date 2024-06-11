@@ -1,5 +1,10 @@
-### Hi my name is Aaditya Pulastya and I recently graduated from Penn State. 
+I recently graduated from Penn State and have a passion for harnessing the power of AI and machine learning to drive innovation and solve complex challenges. 
 
+My journey into the world of AI and machine learning has been thrilling. I've had the opportunity to work with powerful tools like Azure Machine Learning and Jupyter Notebooks, enabling me to develop predictive models, analyze large datasets, and extract valuable insights.
+
+I've applied my knowledge in Artificial Intelligence and Machine Learning to create impactful solutions, including an up-to-date Medical Chatbot with ChatGPT integration. These projects not only reinforced my technical skills but also showcased my ability to translate complex concepts into actionable results.
+
+I'm a firm believer in the power of continuous learning. I'm always seeking opportunities to expand my knowledge and stay up-to-date with the latest advancements in AI and ML.
 
 <!--
 **aadityapulastya/aadityapulastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
